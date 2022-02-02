@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![walkthrough](https://user-images.githubusercontent.com/92124196/152071663-1614ad18-35a2-4c8f-8570-5934edb7f164.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
